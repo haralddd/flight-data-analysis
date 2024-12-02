@@ -1,0 +1,1 @@
+The script can be executed by running `python main.py <number>`, where 1 executes the circular flight pattern, and 2 executes the realistic flight pattern. For more details, read implementation documentation in `main.py` and `functions.py`.
